@@ -1,0 +1,23 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Frontend Application Using Electron with Integration of OpenAi API and Supabase",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaido11/frontend.git"
+  },
+  "author": "Darius Jay Obut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jaido11/frontend/issues"
+  },
+  "homepage": "https://github.com/Jaido11/frontend#readme",
+  "devDependencies": {
+    "electron": "^24.3.0"
+  }
+}
