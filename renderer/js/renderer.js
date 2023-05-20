@@ -12,3 +12,4 @@ if (form) {
     document.getElementById("sentence_corrected").innerHTML = JSON.stringify(response.choices[0].text).replace(/\\n/g, '');
   };
 }
+// wew
